@@ -31,4 +31,6 @@ zacje sceny roboczej bedzie wykonana z wykorzystaniem programu gnuplot. Ma miec 
 charakter bardzo podstawowy i schematyczny. Jej przykład pokazany jest. Z programu gnuplot mozna korzystac bezposrednio z poziomu własnego programu poprzez moduł, ´
 który dostarczony jest jako zalazek do pierwszego etapu. 
 
-# Przyklad
+# Przyklad wizualizacji
+
+
