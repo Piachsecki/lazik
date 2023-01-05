@@ -33,5 +33,5 @@ który dostarczony jest jako zalazek do pierwszego etapu.
 
 # Przyklad wizualizacji
 
-![This is an image] (https://github.com/Piachsecki/lazik/tree/main/prj/photo.png)
+! [This is an image] (https://github.com/Piachsecki/lazik/tree/main/prj/photo.png)
 
