@@ -22,3 +22,11 @@ lezy pamietac,´ ze tylko łazik SFR moze zbierac próbki. Zakłada sie, ´ ze w
 operuje SFR, znajduje sie co najmniej 5 próbek o nazwach: Montdenier, Montagnac, Salette,
 Coulettes, Robine Wiecej informacji na ten temat mozna znalezc na stronie ´
 https://www.jpl.nasa.gov/images/pia25065-mapping-perseverances-first-six-samples
+
+# 3 Sposob realizacji zadania 
+Kluczowym elementem zadania jest zamodelowanie odpowiednich struktur danych. Całosc re- ´
+alizacji zadania podzielona jest na dwa etapy. W ramach pierwszego etapu zostanie wstepnie
+zaproponowana struktura danych, która trzeba bedzie rozwijac realizuj ˛ac drugi etap. Wizuali- ´
+zacje sceny roboczej bedzie wykonana z wykorzystaniem programu gnuplot. Ma miec ona ´
+charakter bardzo podstawowy i schematyczny. Jej przykład pokazany jest. Z programu gnuplot mozna korzystac bezposrednio z poziomu własnego programu poprzez moduł, ´
+który dostarczony jest jako zalazek do pierwszego etapu. 
