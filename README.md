@@ -1,4 +1,4 @@
-# Zadanie projektowe: Sterowania misj ˛a zbierania próbek z Marsa
+# Zadanie projektowe: Misja zbierania próbek z Marsa
 
 
 
@@ -30,3 +30,5 @@ zaproponowana struktura danych, która trzeba bedzie rozwijac realizuj ˛ac drug
 zacje sceny roboczej bedzie wykonana z wykorzystaniem programu gnuplot. Ma miec ona ´
 charakter bardzo podstawowy i schematyczny. Jej przykład pokazany jest. Z programu gnuplot mozna korzystac bezposrednio z poziomu własnego programu poprzez moduł, ´
 który dostarczony jest jako zalazek do pierwszego etapu. 
+
+# Przyklad
